@@ -8,3 +8,22 @@
 Juanfh11/Juanfh11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## LENGUAJES
+![Java](https://github.com/Juanfh11/Images/blob/main/java.png?raw=true)
+![c#](https://github.com/Juanfh11/Images/blob/main/c%23.png?raw=true)
+![Python](https://github.com/Juanfh11/Images/blob/main/python.png?raw=true)
+![HTML](https://github.com/Juanfh11/Images/blob/main/html.png?raw=true)
+![CSS](https://github.com/Juanfh11/Images/blob/main/css.png?raw=true)
+## PLATAFORMS
+![Windows](https://github.com/Juanfh11/Images/blob/main/windows.png?raw=true)
+![Mobile](https://github.com/Juanfh11/Images/blob/main/movil.png?raw=true)
+![Web](https://github.com/Juanfh11/Images/blob/main/web.png?raw=true)
+## Tools
+![Android Studio](https://github.com/Juanfh11/Images/blob/main/android.png?raw=true)
+![Docker](https://github.com/Juanfh11/Images/blob/main/docker.png?raw=true)
+![Eclipse](https://raw.githubusercontent.com/Juanfh11/Images/e30b2264ba06cd37312b45bc06e4c626c8f7d34f/eclipse.svg?token=A3WGJAYHK5MTALM677BYQTDDTRKYY)
+![Intellij](https://github.com/Juanfh11/Images/blob/main/intellij.png?raw=true)
+![PyCharm](https://github.com/Juanfh11/Images/blob/main/pycharm.png?raw=true)
+![Visual](https://github.com/Juanfh11/Images/blob/main/visual%20studio.png?raw=true)
+![Visual Code](https://github.com/Juanfh11/Images/blob/main/visual.png?raw=true)
+![VMWare](https://github.com/Juanfh11/Images/blob/main/vmware.png?raw=true)
