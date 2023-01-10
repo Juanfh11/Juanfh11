@@ -8,23 +8,40 @@
 Juanfh11/Juanfh11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## LENGUAJES
-![Java](https://github.com/Juanfh11/Images/blob/main/java.png?raw=true)
-![c#](https://github.com/Juanfh11/Images/blob/main/Images/c%23.svg)
-![C](https://github.com/Juanfh11/Images/blob/main/Images/c.svg)
-![Python](https://github.com/Juanfh11/Images/blob/main/Images/python.svg)
-![HTML](https://github.com/Juanfh11/Images/blob/main/Images/html.svg)
-![CSS](https://github.com/Juanfh11/Images/blob/main/Images/css.svg)
-## PLATAFORMS
-![Windows](https://github.com/Juanfh11/Images/blob/main/windows.png?raw=true)
-![Mobile](https://github.com/Juanfh11/Images/blob/main/movil.png?raw=true)
-![Web](https://github.com/Juanfh11/Images/blob/main/web.png?raw=true)
-## Tools
-![Android Studio](https://github.com/Juanfh11/Images/blob/main/Images/android-studio.svg)
-![Docker](https://github.com/Juanfh11/Images/blob/main/Images/docker.svg)
-![Eclipse](https://raw.githubusercontent.com/Juanfh11/Images/e30b2264ba06cd37312b45bc06e4c626c8f7d34f/eclipse.svg?token=A3WGJAYHK5MTALM677BYQTDDTRKYY)
-![Intellij](https://github.com/Juanfh11/Images/blob/main/intellij.png?raw=true)
-![PyCharm](https://github.com/Juanfh11/Images/blob/main/pycharm.png?raw=true)
-![Visual](https://github.com/Juanfh11/Images/blob/main/visual%20studio.png?raw=true)
-![Visual Code](https://github.com/Juanfh11/Images/blob/main/visual.png?raw=true)
-![VMWare](https://github.com/Juanfh11/Images/blob/main/vmware.png?raw=true)
+
+### LENGUAJES
+<p aling="center">
+  <img src="https://github.com/Juanfh11/Images/blob/main/Images/java.svg" width="100" height="100">
+  <img src="https://github.com/Juanfh11/Images/blob/main/Images/c%23.svg" width="100" height="100">
+  <img src="https://github.com/Juanfh11/Images/blob/main/Images/c.svg" width="100" height="100">
+  <img src="https://github.com/Juanfh11/Images/blob/main/Images/python.svg" width="100" height="100">
+  <img src="https://github.com/Juanfh11/Images/blob/main/Images/html.svg" width="100" height="100">
+  <img src="https://github.com/Juanfh11/Images/blob/main/Images/css.svg" width="100" height="100">
+  <img src="https://github.com/Juanfh11/Images/blob/main/Images/javascript.svg" width="100" height="100">
+</p>
+
+### PLATAFORMS
+<p aling="center">
+  <img src="https://github.com/Juanfh11/Images/blob/main/Images/windows.png" width="100" height="100">
+  <img src="https://github.com/Juanfh11/Images/blob/main/Images/android.png" width="100" height="100">
+  <img src="https://github.com/Juanfh11/Images/blob/main/Images/web.png" width="100" height="100">
+</p>
+
+### TOOLS
+<p aling="center">
+  <img src="https://github.com/Juanfh11/Images/blob/main/Images/android-studio.svg" width="100" height="100">
+  <img src="https://github.com/Juanfh11/Images/blob/main/Images/docker.svg" width="100" height="100">
+  <img src="https://github.com/Juanfh11/Images/blob/main/Images/eclipse.png" width="100" height="100">
+  <img src="https://github.com/Juanfh11/Images/blob/main/Images/intellij.svg" width="100" height="100">
+  <img src="https://github.com/Juanfh11/Images/blob/main/Images/pycharm.svg" width="100" height="100">
+  <img src="https://github.com/Juanfh11/Images/blob/main/Images/visual.png" width="100" height="100">
+  <img src="https://github.com/Juanfh11/Images/blob/main/Images/vscode.svg" width="100" height="100">
+  <img src="https://github.com/Juanfh11/Images/blob/main/Images/Vmware.png" width="100" height="100">
+  <img src="https://github.com/Juanfh11/Images/blob/main/Images/sublime.svg" width="100" height="100">
+  <img src="https://github.com/Juanfh11/Images/blob/main/Images/notepad%2B%2B.png" width="100" height="100">
+  <img src="https://github.com/Juanfh11/Images/blob/main/Images/git.svg" width="100" height="100">
+  <img src="https://github.com/Juanfh11/Images/blob/main/Images/github.svg" width="100" height="100">
+  <img src="https://github.com/Juanfh11/Images/blob/main/Images/mysql.svg" width="100" height="100">
+  <img src="https://github.com/Juanfh11/Images/blob/main/Images/oracle.svg" width="100" height="100">
+  <img src="https://github.com/Juanfh11/Images/blob/main/Images/postgresql.svg" width="100" height="100">
+</p>
