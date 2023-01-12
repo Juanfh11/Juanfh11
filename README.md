@@ -17,6 +17,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/Juanfh11/Images/blob/main/Images/python.svg" width="100" height="100">
   <img src="https://github.com/Juanfh11/Images/blob/main/Images/html.svg" width="100" height="100">
   <img src="https://github.com/Juanfh11/Images/blob/main/Images/css.svg" width="100" height="100">
+  <img src="https://github.com/Juanfh11/Images/blob/main/Images/xml.svg" width="100" height="100">
   <img src="https://github.com/Juanfh11/Images/blob/main/Images/javascript.svg" width="100" height="100">
 </p>
 
@@ -37,6 +38,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/Juanfh11/Images/blob/main/Images/visual.png" width="100" height="100">
   <img src="https://github.com/Juanfh11/Images/blob/main/Images/vscode.svg" width="100" height="100">
   <img src="https://github.com/Juanfh11/Images/blob/main/Images/Vmware.png" width="100" height="100">
+  <img src="https://github.com/Juanfh11/Images/blob/main/Images/virtualbox.png" width="100" height="100">
   <img src="https://github.com/Juanfh11/Images/blob/main/Images/sublime.svg" width="100" height="100">
   <img src="https://github.com/Juanfh11/Images/blob/main/Images/notepad%2B%2B.png" width="100" height="100">
   <img src="https://github.com/Juanfh11/Images/blob/main/Images/git.svg" width="100" height="100">
