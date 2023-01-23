@@ -47,3 +47,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/Juanfh11/Images/blob/main/Images/oracle.svg" width="100" height="100">
   <img src="https://github.com/Juanfh11/Images/blob/main/Images/postgresql.svg" width="100" height="100">
 </p>
+
+### STATISTICS   
+<p align="center">
+      <img width="60%" src="https://github-stats-alpha.vercel.app/api?username=Juanfh11&cc=0D1117&tc=4F93E3&ic=fff&bc=0D1117"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Juanfh11&layout=compact&show_icons=true&bg_color=0D1117&text_color=4F93E3&title_color=4F93E3&border_color=3C434D&hide_border=true&langs_count=10"/>
+</p>
