@@ -1,5 +1,5 @@
 - 👋 Hi everyone. My name is Juan and in my github I am going to update some software proyects.
-- 📗 At this moment, I am studing two years course in Multimedia Platform Development.
+- 📗 I studied two years course in Multimedia Platform Development.
 - 🌱 I’m currently learning diferents lenguajes of coding, for examample Java, Python, C, C#...
 - 📫 You can contact me through my email: juanfh2003@gmail.com
 - 📲 Also, you can check my Linkedin profile here: https://www.linkedin.com/in/juanfh
