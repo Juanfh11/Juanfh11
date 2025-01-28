@@ -48,6 +48,12 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/Juanfh11/Images/blob/main/Images/postgresql.svg" width="100" height="100">
 </p>
 
+### IDENTITY ACCESS MANAGEMENT (IAM)
+<p aling="center">
+  <img src="https://github.com/Juanfh11/Images/blob/main/Images/IIQ.png">
+  <img src="https://github.com/Juanfh11/Images/blob/main/Images/IDNOW.png">
+</p>
+
 ### STATISTICS   
 <p align="center">
       <img width="50%" src="https://github-stats-alpha.vercel.app/api?username=Juanfh11&cc=0D1117&tc=4F93E3&ic=fff&bc=0D1117"/>
